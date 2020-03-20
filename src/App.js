@@ -10,7 +10,7 @@ import ImageLinkForm from "./components/ImageLinkForm/ImageLinkForm";
 import Rank from "./components/Rank/Rank";
 import SignIn from "./components/SignIn/SignIn";
 import Register from "./components/Register/Register";
-import 'tachyons';
+//import 'tachyons';
 
 
 const particleOptions = {
